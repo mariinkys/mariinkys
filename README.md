@@ -59,3 +59,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
    </a> 
 </p>
+
+<h3 align="left">Buy me a Coffee</h3>
+<a  href="https://www.buymeacoffee.com/mariinkys" target="_blank" rel="noreferrer">
+   <img src="https://i.imgur.com/xCduC32.png" alt="buymeacofee qr" width="120" height="120"/>
+</a>

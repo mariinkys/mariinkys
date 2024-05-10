@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Web Developer & Language Learning Enthusiast</h3>
 
-- 🌱 I’m currently learning **Vue and Rust**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **.NET, Blazor, Go, Java...**
+- 💬 Ask me about **.NET, Blazor, Go...**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">

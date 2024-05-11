@@ -60,6 +60,8 @@
    </a> 
 </p>
 
+<h4 align="center">At work, I usually write applications with .NET technologies such as Blazor, here I prefer to try other things...</h3>
+
 <h3 align="left">Buy me a Coffee</h3>
 <a  href="https://www.buymeacoffee.com/mariinkys" target="_blank" rel="noreferrer">
    <img src="https://i.imgur.com/xCduC32.png" alt="buymeacofee qr" width="120" height="120"/>
